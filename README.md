@@ -55,10 +55,12 @@ Left panel (scrollable):
   |  Noise Level   [slider  -2.0 - +2.0]                          |
   |  [ Reset All Parameters ]                                     |
   +--------------------------------------------------------------+
+  
   +- Actions ---------------------------------------------------+
   |  Pattern Gallery  |  Batch Process                            |
   |  Noise Analysis   |  Compare Results                          |
   +--------------------------------------------------------------+
+  
   +- Status & Metrics ------------------------------------------+
   |  Status message                                               |
   |  PSNR (dB)        |   SSIM                                    |
